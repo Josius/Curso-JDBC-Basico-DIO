@@ -17,3 +17,7 @@ Tecnologias usadas neste curso:
 
 Curso voltado para compreensão do uso dos frameworks JDBC e JPA da linguagem Java, os quais são voltados para otimização ao trabalhar com Banco de Dados.
 
+
+
+https://user-images.githubusercontent.com/58814756/159138763-92656021-4272-40ed-aba1-87f58841f32a.mp4
+
